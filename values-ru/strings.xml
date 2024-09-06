@@ -75,22 +75,22 @@
     <string name="pref_playback_output_threshold">Выходной предел</string>
 
     <string name="pref_fetcompressor_title">FET compressor</string>
-    <string name="pref_fetcompressor_threshold">Operating threshold</string>
-    <string name="pref_fetcompressor_ratio">Compression ratio</string>
-    <string name="pref_fetcompressor_autoknee">Automatic knee</string>
-    <string name="pref_fetcompressor_knee">Inflection</string>
-    <string name="pref_fetcompressor_kneemulti">Inflection point gain</string>
-    <string name="pref_fetcompressor_autogain">Automatic gain</string>
-    <string name="pref_fetcompressor_gain">Gain</string>
-    <string name="pref_fetcompressor_autoattack">Automatic attack</string>
-    <string name="pref_fetcompressor_attack">Attack</string>
-    <string name="pref_fetcompressor_maxattack">Maximum attack</string>
-    <string name="pref_fetcompressor_autorelease">Automatic release</string>
-    <string name="pref_fetcompressor_release">Release</string>
-    <string name="pref_fetcompressor_maxrelease">Maximum release</string>
-    <string name="pref_fetcompressor_crest">Crest</string>
-    <string name="pref_fetcompressor_adapt">Adapt</string>
-    <string name="pref_fetcompressor_noclip">Clipping prevention</string>
+    <string name="pref_fetcompressor_threshold">Порог срабатывания</string>
+    <string name="pref_fetcompressor_ratio">Степень сжатия</string>
+    <string name="pref_fetcompressor_autoknee">Автоматическое колено</string>
+    <string name="pref_fetcompressor_knee">Перегиб rjktyf</string>
+    <string name="pref_fetcompressor_kneemulti">Усиление точки перегиба колена</string>
+    <string name="pref_fetcompressor_autogain">Автоматическое усиление</string>
+    <string name="pref_fetcompressor_gain">Усиление</string>
+    <string name="pref_fetcompressor_autoattack">Автоматическая атака</string>
+    <string name="pref_fetcompressor_attack">Атака</string>
+    <string name="pref_fetcompressor_maxattack">Максимальная атака</string>
+    <string name="pref_fetcompressor_autorelease">Автоматический выпуск</string>
+    <string name="pref_fetcompressor_release">Выпуск</string>
+    <string name="pref_fetcompressor_maxrelease">Максимальный выпуск</string>
+    <string name="pref_fetcompressor_crest">Гребень</string>
+    <string name="pref_fetcompressor_adapt">Адаптация</string>
+    <string name="pref_fetcompressor_noclip">Предотвращение клиппинга</string>
 
     <string name="pref_viperddc_title">ViPER-DDC</string>
     <string name="pref_viperddc_device">Корректировка наушников</string>
@@ -104,7 +104,7 @@
     <string name="eq_preset_bass_booster">Усиление баса</string>
     <string name="eq_preset_bass_reducer">Ослабление баса</string>
     <string name="eq_preset_classical">Классика</string>
-    <string name="eq_preset_deep">Deep</string>
+    <string name="eq_preset_deep">Глубина</string>
     <string name="eq_preset_flat">Плоский</string>
     <string name="eq_preset_r_and_b">R&amp;B</string>
     <string name="eq_preset_rock">Рок</string>
@@ -114,8 +114,8 @@
     <string name="eq_preset_vocal_booster">Усиление вокала</string>
 
     <string name="pref_convolver_title">Конвольвер</string>
-    <string name="pref_convolver_knl">Импульсная характеристика</string>
-    <string name="pref_convolver_knl_title">Выберите файл импульсной характеристики</string>
+    <string name="pref_convolver_knl">IR</string>
+    <string name="pref_convolver_knl_title">Выберите файл IR</string>
     <string name="pref_convolver_crosschannel">Пересечение каналов</string>
 
     <string name="pref_colorfulmusic_title">Объёмный звук</string>
