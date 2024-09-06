@@ -85,9 +85,9 @@
     <string name="pref_fetcompressor_autoattack">Автоматическая атака</string>
     <string name="pref_fetcompressor_attack">Атака</string>
     <string name="pref_fetcompressor_maxattack">Максимальная атака</string>
-    <string name="pref_fetcompressor_autorelease">Автоматический выпуск</string>
-    <string name="pref_fetcompressor_release">Выпуск</string>
-    <string name="pref_fetcompressor_maxrelease">Максимальный выпуск</string>
+    <string name="pref_fetcompressor_autorelease">Авто восстановление</string>
+    <string name="pref_fetcompressor_release">Восстановление</string>
+    <string name="pref_fetcompressor_maxrelease">Предел восстановления</string>
     <string name="pref_fetcompressor_crest">Гребень</string>
     <string name="pref_fetcompressor_adapt">Адаптация</string>
     <string name="pref_fetcompressor_noclip">Предотвращение клиппинга</string>
